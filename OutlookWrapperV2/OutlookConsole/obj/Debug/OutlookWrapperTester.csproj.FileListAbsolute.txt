@@ -1,0 +1,30 @@
+D:\Ankan.mondal\My Desktop\Tasks\BOT BUNDLES REVISE DOCS\ALL Source Code Reviews\PerformVarious Email Operations\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookWrapperTester.csprojAssemblyReference.cache
+D:\Ankan.mondal\My Desktop\Tasks\BOT BUNDLES REVISE DOCS\ALL Source Code Reviews\PerformVarious Email Operations\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookWrapperTester.csproj.CoreCompileInputs.cache
+D:\Ankan.mondal\My Desktop\Tasks\BOT BUNDLES REVISE DOCS\ALL Source Code Reviews\PerformVarious Email Operations\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookConsole.exe
+D:\Ankan.mondal\My Desktop\Tasks\BOT BUNDLES REVISE DOCS\ALL Source Code Reviews\PerformVarious Email Operations\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookConsole.pdb
+D:\Ankan.mondal\My Desktop\Tasks\BOT BUNDLES REVISE DOCS\ALL Source Code Reviews\PerformVarious Email Operations\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookConsole.exe.config
+D:\Ankan.mondal\My Desktop\Tasks\BOT BUNDLES REVISE DOCS\ALL Source Code Reviews\PerformVarious Email Operations\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookConsole.exe
+D:\Ankan.mondal\My Desktop\Tasks\BOT BUNDLES REVISE DOCS\ALL Source Code Reviews\PerformVarious Email Operations\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookConsole.pdb
+D:\Ankan.mondal\My Desktop\Tasks\BOT BUNDLES REVISE DOCS\ALL Source Code Reviews\PerformVarious Email Operations\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookWrapperV2.dll
+D:\Ankan.mondal\My Desktop\Tasks\BOT BUNDLES REVISE DOCS\ALL Source Code Reviews\PerformVarious Email Operations\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookWrapperV2.pdb
+D:\Ankan.mondal\My Desktop\Tasks\BOT BUNDLES REVISE DOCS\ALL Source Code Reviews\PerformVarious Email Operations\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookWrapperTester.csproj.CopyComplete
+D:\Ankan.mondal\My Desktop\GH\bots\AAI Outlook Bot\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookConsole.exe.config
+D:\Ankan.mondal\My Desktop\GH\bots\AAI Outlook Bot\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookConsole.exe
+D:\Ankan.mondal\My Desktop\GH\bots\AAI Outlook Bot\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookConsole.pdb
+D:\Ankan.mondal\My Desktop\GH\bots\AAI Outlook Bot\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookWrapperV2.dll
+D:\Ankan.mondal\My Desktop\GH\bots\AAI Outlook Bot\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookWrapperV2.pdb
+D:\Ankan.mondal\My Desktop\GH\bots\AAI Outlook Bot\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookWrapperTester.csprojAssemblyReference.cache
+D:\Ankan.mondal\My Desktop\GH\bots\AAI Outlook Bot\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookWrapperTester.csproj.CoreCompileInputs.cache
+D:\Ankan.mondal\My Desktop\GH\bots\AAI Outlook Bot\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookWrapperTester.csproj.CopyComplete
+D:\Ankan.mondal\My Desktop\GH\bots\AAI Outlook Bot\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookConsole.exe
+D:\Ankan.mondal\My Desktop\GH\bots\AAI Outlook Bot\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookConsole.pdb
+C:\Users\Sikha.P\Downloads\11x-PerformVariousOutlookOperations-3250-master\11x-PerformVariousOutlookOperations-3250-master\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookConsole.exe.config
+C:\Users\Sikha.P\Downloads\11x-PerformVariousOutlookOperations-3250-master\11x-PerformVariousOutlookOperations-3250-master\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookConsole.exe
+C:\Users\Sikha.P\Downloads\11x-PerformVariousOutlookOperations-3250-master\11x-PerformVariousOutlookOperations-3250-master\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookConsole.pdb
+C:\Users\Sikha.P\Downloads\11x-PerformVariousOutlookOperations-3250-master\11x-PerformVariousOutlookOperations-3250-master\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookWrapperV2.dll
+C:\Users\Sikha.P\Downloads\11x-PerformVariousOutlookOperations-3250-master\11x-PerformVariousOutlookOperations-3250-master\OutlookWrapperV2\OutlookConsole\bin\Debug\OutlookWrapperV2.pdb
+C:\Users\Sikha.P\Downloads\11x-PerformVariousOutlookOperations-3250-master\11x-PerformVariousOutlookOperations-3250-master\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookWrapperTester.csprojAssemblyReference.cache
+C:\Users\Sikha.P\Downloads\11x-PerformVariousOutlookOperations-3250-master\11x-PerformVariousOutlookOperations-3250-master\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookWrapperTester.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\Downloads\11x-PerformVariousOutlookOperations-3250-master\11x-PerformVariousOutlookOperations-3250-master\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookWrapperTester.csproj.CopyComplete
+C:\Users\Sikha.P\Downloads\11x-PerformVariousOutlookOperations-3250-master\11x-PerformVariousOutlookOperations-3250-master\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookConsole.exe
+C:\Users\Sikha.P\Downloads\11x-PerformVariousOutlookOperations-3250-master\11x-PerformVariousOutlookOperations-3250-master\OutlookWrapperV2\OutlookConsole\obj\Debug\OutlookConsole.pdb
